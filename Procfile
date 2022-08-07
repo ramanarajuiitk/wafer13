@@ -1,1 +1,1 @@
-web: gunicorn main:app
+web: gunicorn main:appgit push -f origin main
